@@ -1,3 +1,7 @@
-# Biochem Tracker LF1
+# LF1 Study Trackers
 
-Interactive biochemistry study tracker for the Charles University LF1 final oral. Open the site to use it — progress saves privately in your browser.
+Interactive study trackers for the Charles University LF1 finals. Open one and use it in the browser. Your progress is saved privately on your own device and is never uploaded.
+
+**Biochemistry final oral** — https://mhrdhs.github.io/Biochem-Tracker-LF1/
+
+**Microbiology 2 final** — https://mhrdhs.github.io/Biochem-Tracker-LF1/micro/
